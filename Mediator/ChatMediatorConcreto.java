@@ -1,7 +1,9 @@
+package Mediator;
+
 import java.util.ArrayList;
 import java.util.List;
 
-public class ChatMediatorConcrete implements ChatMediator {
+public class ChatMediatorConcreto implements ChatMediator {
     private List<Usuario> usuarios = new ArrayList<>();
 
     public void adicionarUsuario(Usuario usuario) {

@@ -1,3 +1,5 @@
+package Mediator;
+
 public abstract class Usuario {
     protected ChatMediator mediator;
     protected String nome;

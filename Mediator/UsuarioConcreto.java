@@ -1,3 +1,5 @@
+package Mediator;
+
 public class UsuarioConcreto extends Usuario {
     public UsuarioConcreto(ChatMediator mediator, String nome) {
         super(mediator, nome);
