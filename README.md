@@ -1,4 +1,4 @@
-# 📚 Padrões Estruturais
+# 📚 Padrões Comportamentais
 
 Bem vindo(a)! Este repositório contém implementações de exemplos para cada um dos padrões comportamentais apresentados na disciplina de **Padrões de Projeto**. Os padrões comportamentais são utilizados para definir como os objetos interagem entre si, garantindo flexibilidade, reutilização de código e separação de responsabilidades. Eles ajudam a controlar o fluxo de comunicação entre os objetos de um sistema, tornando o código mais manutenível, desacoplado e extensível.
 
